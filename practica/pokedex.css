@@ -1,0 +1,26 @@
+.fondo{
+    display: flex;
+    position: relative;
+   /* background-image: url(Oryam\ from\ dev.to.png); */
+    align-items: center;
+ }
+
+.pokeImg{
+    position:absolute;
+    left: 108px;
+    top: 185px;
+}
+h1, h2, h3{
+    font-family: 'Roboto Mono', monospace;
+}
+
+
+.whosThatPokemon{
+
+    display: flex;
+    height: fit-content;
+}
+
+.pokeName{
+    color: blue;
+}
